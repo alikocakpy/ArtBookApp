@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Code/MobilPrograming/Java/ArtBook/app/src/main/res/layout/activity_details.xml" value="0.30027173913043476" />
+        <entry key="..\:/Code/MobilPrograming/Java/ArtBook/app/src/main/res/layout/activity_main.xml" value="0.30027173913043476" />
+        <entry key="..\:/Code/MobilPrograming/Java/ArtBook/app/src/main/res/layout/recycler_view.xml" value="0.30027173913043476" />
+        <entry key="..\:/Code/MobilPrograming/Java/ArtBook/app/src/main/res/menu/art_book.xml" value="0.38697916666666665" />
+        <entry key="..\:/Code/MobilPrograming/Java/ArtBook/app/src/main/res/menu/art_menu.xml" value="0.38697916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
